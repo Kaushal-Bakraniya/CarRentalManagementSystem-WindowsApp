@@ -1,4 +1,4 @@
-# CRMS-WindowsApp
+# Car Rental Management System - Windows App
 
 The Car Rental Management System is a Windows application developed using C#, .NET, and Guna UI. It offers a user-friendly interface to efficiently handle various tasks related to car rentals, such as booking management, customer management, and other essential functionalities.
 
